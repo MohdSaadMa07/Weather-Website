@@ -26,3 +26,6 @@ JavaScript: For dynamic content updates and API interaction.
 ![image](https://github.com/MohdSaadMa07/Weather-Website/assets/172749356/eaaa2aea-c23b-4ab9-ac41-ee1e174be458)		
 
 ![image](https://github.com/MohdSaadMa07/Weather-Website/assets/172749356/8abdcab0-baa6-4af3-b952-a954e66bf125)
+
+![image](https://github.com/MohdSaadMa07/Weather-Website/assets/172749356/ce0d1ec3-5bd3-4d71-89cb-0349d0844d60)
+
