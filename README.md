@@ -21,6 +21,7 @@ CSS3: For styling and responsive design.
 
 JavaScript: For dynamic content updates and API interaction.
 
+Made responsive over range of divices.
 
 
 ![image](https://github.com/MohdSaadMa07/Weather-Website/assets/172749356/eaaa2aea-c23b-4ab9-ac41-ee1e174be458)		
